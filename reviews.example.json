@@ -1,0 +1,12 @@
+{
+  "googleReviewsUrl": "https://g.page/r/YOUR-GOOGLE-REVIEW-LINK",
+  "reviews": [
+    {
+      "name": "Customer name, as they agreed to show it",
+      "city": "Their city",
+      "rating": 5,
+      "text": "Paste the customer's real words here.",
+      "date": "October 2026"
+    }
+  ]
+}
